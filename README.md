@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/USC_Trojans_logo.svg/161px-USC_Trojans_logo.svg.png"
+  <img src="https://rootedinrights.org/wp-content/uploads/2015/12/USC-shield.jpg"
        alt="USC logo" height="40">
   &nbsp;&nbsp;
   <strong>USC Alumni • Product Manager</strong>
