@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">
   Hi&nbsp;there&nbsp;👋&nbsp;
 </h1>
