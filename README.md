@@ -8,13 +8,12 @@
 
 B.S., University of Southern California<br>
 M.S. Computer Science, University of Pennsylvania<br>
-Based in Southern California
 
 ## ❯ Background
 
-Started in startups on the business side, building product at early-stage companies across developer tools, fintech, and nonprofit<br>
-The more I shipped, the more I wanted to actually build the thing instead of just defining it<br>
-That pull is what took me back to school, a Master's in Computer Science at Penn, with the aim of working in AI as someone who can both think about the product and write the code
+Started in startups on the business side, building product at early-stage companies across developer tools, fintech, and nonprofit.<br>
+The more I shipped, the more I wanted to actually build the thing instead of just defining it.<br>
+That pull is what took me back to school, a Master's in Computer Science at Penn, with the aim of working in AI as someone who can both think about the product and write the code.
 
 **Current:** Kindness Kits, UPenn<br>
 **Past:** Sourcegraph, Global Token Exchange
