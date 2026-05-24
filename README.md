@@ -6,7 +6,7 @@
 
 ## ❯ Education
 
-B.S., University of Southern California<br>
+B.S. Business Administration, University of Southern California<br>
 M.S. Computer Science, University of Pennsylvania<br>
 
 ## ❯ Background
